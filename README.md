@@ -1,4 +1,5 @@
 # Victor Majestic 😄
+Computer Science Major at Case Western Reserve University, with a focus on Software Engineering and a Minor in Computer Game Design.
 
 <!--
 **victorjmajestic/victorjmajestic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
