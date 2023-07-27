@@ -1,5 +1,5 @@
 # Victor Majestic 😄
-Hello, I am Victor Majestic! I am currently majoring in Computer Science at Case Western Reserve University, with a focus on Software Engineering and minoring in Computer Game Design. I have experience with a variety of programming languages, including Java, C#, C, HTML, CSS, JavaScript, R, and Racket.
+Hello, I am Victor Majestic! I am currently majoring in Computer Science at Case Western Reserve University with a focus on Software Engineering and minoring in Computer Game Design. I have experience with a variety of programming languages, including Java, C#, C, HTML, CSS, JavaScript, R, and Racket.
 
 View any of my major projects below, or click "Repositories" to view a collection of coding I have done.
 
